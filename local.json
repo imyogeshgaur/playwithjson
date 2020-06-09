@@ -1,0 +1,39 @@
+[
+    {
+        "email": "yogesh.gaur@example.com",
+        "fname":"Yogesh",
+        "lname":"Gaur",
+        "subject":"Computer Science"
+    },
+    {
+        "email": "harpreet.singh@example.com",
+        "fname":"Harpreet",
+        "lname":"Singh",
+        "subject":"Physics"
+    },
+    {
+        "email": "rajeev.srivastava@example.com",
+        "fname":"Rajeev",
+        "lname":"Srivastava",
+        "subject":"Chemistry"
+    },
+    {
+        "email": "shivank.goel@example.com",
+        "fname":"Shivank",
+        "lname":"Goel",
+        "subject":"Mathematics"
+    },
+    {
+        "email": "shwetabh.sharma@example.com",
+        "fname":"Shwetabh",
+        "lname":"Sharma",
+        "subject":"History"
+    },
+    {
+        "email": "simran.pandey@example.com",
+        "fname":"Simran",
+        "lname":"Pandey",
+        "subject":"Hindi Literature"
+    }
+
+]
